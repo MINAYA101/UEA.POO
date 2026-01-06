@@ -1,0 +1,43 @@
+Características del programa:
+1. Funcionalidad elegida: Calculadora de Índice de Masa Corporal (IMC)
+Calcula el IMC usando peso y altura
+
+Clasifica el resultado en categorías médicas
+
+Determina si el valor es saludable
+
+2. Tipos de datos utilizados:
+float: Para peso, altura y el valor del IMC (números decimales)
+
+int: Para la edad (número entero)
+
+string: Para nombres, categorías y mensajes
+
+boolean: Para indicar si el IMC es saludable o no
+
+3. Identificadores descriptivos en snake_case:
+Variables: peso_usuario, altura_usuario, imc_calculado
+
+Funciones: calcular_indice_masa_corporal(), clasificar_imc()
+
+Argumentos: valor_imc, nombre_usuario
+
+4. Comentarios y documentación:
+Comentario general al inicio describiendo el programa
+
+Docstrings en cada función con parámetros y retornos
+
+Comentarios explicativos en secciones clave del código
+
+Comentarios sobre la lógica de validación y cálculos
+
+5. Características adicionales:
+Validación de entrada de datos
+
+Control de errores con try-except
+
+Formato de salida claro y organizado
+
+Posibilidad de realizar múltiples cálculos
+
+Mensajes personalizados según los resultados
