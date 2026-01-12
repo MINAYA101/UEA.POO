@@ -1,0 +1,37 @@
+Explicación de los conceptos de POO implementados:
+1. Definición de Clase y Objeto
+Vehiculo, Automovil y Motocicleta son clases
+
+mi_auto, mi_moto son objetos (instancias de clases)
+
+2. Herencia
+Automovil y Motocicleta heredan de Vehiculo
+
+Uso de super().__init__() para llamar al constructor de la clase base
+
+Las clases derivadas extienden la funcionalidad de la clase base
+
+3. Encapsulación
+Atributos privados con __ (doble guion bajo)
+
+Atributos protegidos con _ (guion bajo)
+
+Uso de getters y setters para acceder/modificar atributos
+
+Métodos como aumentar_kilometraje() que controlan el acceso
+
+4. Polimorfismo
+Sobrescritura de métodos: mostrar_info() y arrancar() se comportan diferente en cada clase
+
+Función probar_vehiculos() que acepta diferentes tipos de vehículos
+
+El mismo método se ejecuta de forma diferente según el tipo de objeto
+
+Instrucciones para ejecutar:
+Copia el código en PyCharm
+
+Ejecuta el programa
+
+Observa cómo se demuestra cada concepto de POO en la salida
+
+El programa crea diferentes tipos de vehículos, muestra sus características, permite operaciones específicas y demuestra cómo los principios de POO organizan y estructuran el código de manera eficiente.
