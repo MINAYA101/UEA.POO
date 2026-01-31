@@ -1,0 +1,2 @@
+EVENTO: Transacción exitosa: Juan Perez - $1500.5
+EVENTO: Transacción exitosa: Maria Lopez - $2300.0
